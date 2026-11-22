@@ -2,6 +2,6 @@
 
 Tonocracy v2.3.1 Native Installers
 
-Windows: https://storage.googleapis.com/tonocracy_public_release_archive/Tonocracy%20v2.3.1%20Installer.exe
+Windows: https://github.com/spencerlepine/tonocracy/releases/download/v2.3.1/Tonocracy.v2.3.1.Installer.exe
 
-Mac: https://storage.googleapis.com/tonocracy_public_release_archive/Tonocracy%20v2.3.1%20Installer.dmg
+Mac: https://github.com/spencerlepine/tonocracy/releases/download/v2.3.1/Tonocracy.v2.3.1.Installer.dmg
